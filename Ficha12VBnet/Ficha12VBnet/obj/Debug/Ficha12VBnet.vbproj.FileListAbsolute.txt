@@ -1,0 +1,17 @@
+E:\school\TP\Ficha12VBnet\Ficha12VBnet\bin\Debug\Ficha12VBnet.exe.config
+E:\school\TP\Ficha12VBnet\Ficha12VBnet\obj\Debug\Ficha12VBnet.vbprojResolveAssemblyReference.cache
+E:\school\TP\Ficha12VBnet\Ficha12VBnet\obj\Debug\Ficha12VBnet.Exercício1.resources
+E:\school\TP\Ficha12VBnet\Ficha12VBnet\obj\Debug\Ficha12VBnet.Exercício2.resources
+E:\school\TP\Ficha12VBnet\Ficha12VBnet\obj\Debug\Ficha12VBnet.Exercício3.resources
+E:\school\TP\Ficha12VBnet\Ficha12VBnet\obj\Debug\Ficha12VBnet.Exercício4.resources
+E:\school\TP\Ficha12VBnet\Ficha12VBnet\obj\Debug\Ficha12VBnet.Exercício5.resources
+E:\school\TP\Ficha12VBnet\Ficha12VBnet\obj\Debug\Ficha12VBnet.Exercício6.resources
+E:\school\TP\Ficha12VBnet\Ficha12VBnet\obj\Debug\Ficha12VBnet.MDIParent1.resources
+E:\school\TP\Ficha12VBnet\Ficha12VBnet\obj\Debug\Ficha12VBnet.Resources.resources
+E:\school\TP\Ficha12VBnet\Ficha12VBnet\obj\Debug\Ficha12VBnet.vbproj.GenerateResource.Cache
+E:\school\TP\Ficha12VBnet\Ficha12VBnet\obj\Debug\Ficha12VBnet.xml
+E:\school\TP\Ficha12VBnet\Ficha12VBnet\bin\Debug\Ficha12VBnet.exe
+E:\school\TP\Ficha12VBnet\Ficha12VBnet\bin\Debug\Ficha12VBnet.pdb
+E:\school\TP\Ficha12VBnet\Ficha12VBnet\bin\Debug\Ficha12VBnet.xml
+E:\school\TP\Ficha12VBnet\Ficha12VBnet\obj\Debug\Ficha12VBnet.exe
+E:\school\TP\Ficha12VBnet\Ficha12VBnet\obj\Debug\Ficha12VBnet.pdb

@@ -1,0 +1,14 @@
+G:\school\TP\FichaVBNET_ex4\FichaVBNET_ex4\bin\Debug\FichaVBNET_ex4.exe.config
+G:\school\TP\FichaVBNET_ex4\FichaVBNET_ex4\bin\Debug\FichaVBNET_ex4.exe
+G:\school\TP\FichaVBNET_ex4\FichaVBNET_ex4\bin\Debug\FichaVBNET_ex4.pdb
+G:\school\TP\FichaVBNET_ex4\FichaVBNET_ex4\bin\Debug\FichaVBNET_ex4.xml
+G:\school\TP\FichaVBNET_ex4\FichaVBNET_ex4\obj\Debug\FichaVBNET_ex4.Form1.resources
+G:\school\TP\FichaVBNET_ex4\FichaVBNET_ex4\obj\Debug\FichaVBNET_ex4.Resources.resources
+G:\school\TP\FichaVBNET_ex4\FichaVBNET_ex4\obj\Debug\FichaVBNET_ex4.vbproj.GenerateResource.Cache
+G:\school\TP\FichaVBNET_ex4\FichaVBNET_ex4\obj\Debug\FichaVBNET_ex4.exe
+G:\school\TP\FichaVBNET_ex4\FichaVBNET_ex4\obj\Debug\FichaVBNET_ex4.xml
+G:\school\TP\FichaVBNET_ex4\FichaVBNET_ex4\obj\Debug\FichaVBNET_ex4.pdb
+E:\school\TP\Ficha1VBnet\FichaVBNET_ex4\FichaVBNET_ex4\bin\Debug\FichaVBNET_ex4.exe.config
+E:\school\TP\Ficha1VBnet\FichaVBNET_ex4\FichaVBNET_ex4\obj\Debug\FichaVBNET_ex4.exe
+E:\school\TP\Ficha1VBnet\FichaVBNET_ex4\FichaVBNET_ex4\obj\Debug\FichaVBNET_ex4.xml
+E:\school\TP\Ficha1VBnet\FichaVBNET_ex4\FichaVBNET_ex4\obj\Debug\FichaVBNET_ex4.pdb

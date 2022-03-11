@@ -1,0 +1,17 @@
+E:\school\TP\Ficha11VBnet\Ficha11VBnet\bin\Debug\Ficha11VBnet.exe.config
+E:\school\TP\Ficha11VBnet\Ficha11VBnet\obj\Debug\Ficha11VBnet.vbprojResolveAssemblyReference.cache
+E:\school\TP\Ficha11VBnet\Ficha11VBnet\obj\Debug\Ficha11VBnet.Resources.resources
+E:\school\TP\Ficha11VBnet\Ficha11VBnet\obj\Debug\Ficha11VBnet.vbproj.GenerateResource.Cache
+E:\school\TP\Ficha11VBnet\Ficha11VBnet\bin\Debug\Ficha11VBnet.exe
+E:\school\TP\Ficha11VBnet\Ficha11VBnet\bin\Debug\Ficha11VBnet.pdb
+E:\school\TP\Ficha11VBnet\Ficha11VBnet\bin\Debug\Ficha11VBnet.xml
+E:\school\TP\Ficha11VBnet\Ficha11VBnet\obj\Debug\Ficha11VBnet.Exercício1.resources
+E:\school\TP\Ficha11VBnet\Ficha11VBnet\obj\Debug\Ficha11VBnet.Form_principal.resources
+E:\school\TP\Ficha11VBnet\Ficha11VBnet\obj\Debug\Ficha11VBnet.exe
+E:\school\TP\Ficha11VBnet\Ficha11VBnet\obj\Debug\Ficha11VBnet.xml
+E:\school\TP\Ficha11VBnet\Ficha11VBnet\obj\Debug\Ficha11VBnet.pdb
+E:\school\TP\Ficha11VBnet\Ficha11VBnet\obj\Debug\Ficha11VBnet.Exercício2.resources
+E:\school\TP\Ficha11VBnet\Ficha11VBnet\obj\Debug\Ficha11VBnet.Exercício3.resources
+E:\school\TP\Ficha11VBnet\Ficha11VBnet\obj\Debug\Ficha11VBnet.Exercício4.resources
+E:\school\TP\Ficha11VBnet\Ficha11VBnet\obj\Debug\Ficha11VBnet.Exercício5.resources
+E:\school\TP\Ficha11VBnet\Ficha11VBnet\obj\Debug\Ficha11VBnet.Exercício6.resources

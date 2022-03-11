@@ -1,0 +1,14 @@
+G:\school\TP\Ficha8VBnet\Ficha8VBnet\bin\Debug\Ficha8VBnet.exe.config
+G:\school\TP\Ficha8VBnet\Ficha8VBnet\bin\Debug\Ficha8VBnet.exe
+G:\school\TP\Ficha8VBnet\Ficha8VBnet\bin\Debug\Ficha8VBnet.pdb
+G:\school\TP\Ficha8VBnet\Ficha8VBnet\bin\Debug\Ficha8VBnet.xml
+G:\school\TP\Ficha8VBnet\Ficha8VBnet\obj\Debug\Ficha8VBnet.Form1.resources
+G:\school\TP\Ficha8VBnet\Ficha8VBnet\obj\Debug\Ficha8VBnet.Resources.resources
+G:\school\TP\Ficha8VBnet\Ficha8VBnet\obj\Debug\Ficha8VBnet.vbproj.GenerateResource.Cache
+G:\school\TP\Ficha8VBnet\Ficha8VBnet\obj\Debug\Ficha8VBnet.exe
+G:\school\TP\Ficha8VBnet\Ficha8VBnet\obj\Debug\Ficha8VBnet.xml
+G:\school\TP\Ficha8VBnet\Ficha8VBnet\obj\Debug\Ficha8VBnet.pdb
+E:\school\TP\Ficha8VBnet\Ficha8VBnet\bin\Debug\Ficha8VBnet.exe.config
+E:\school\TP\Ficha8VBnet\Ficha8VBnet\obj\Debug\Ficha8VBnet.exe
+E:\school\TP\Ficha8VBnet\Ficha8VBnet\obj\Debug\Ficha8VBnet.xml
+E:\school\TP\Ficha8VBnet\Ficha8VBnet\obj\Debug\Ficha8VBnet.pdb

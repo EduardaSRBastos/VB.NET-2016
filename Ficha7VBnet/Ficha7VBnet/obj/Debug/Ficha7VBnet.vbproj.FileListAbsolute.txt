@@ -1,0 +1,47 @@
+E:\school\TP\Ficha7VBnet\Ficha7VBnet\bin\Debug\Ficha7VBnet.exe.config
+E:\school\TP\Ficha7VBnet\Ficha7VBnet\bin\Debug\Ficha7VBnet.exe
+E:\school\TP\Ficha7VBnet\Ficha7VBnet\bin\Debug\Ficha7VBnet.pdb
+E:\school\TP\Ficha7VBnet\Ficha7VBnet\bin\Debug\Ficha7VBnet.xml
+E:\school\TP\Ficha7VBnet\Ficha7VBnet\obj\Debug\Ficha7VBnet.vbprojResolveAssemblyReference.cache
+E:\school\TP\Ficha7VBnet\Ficha7VBnet\obj\Debug\Ficha7VBnet.Form1.resources
+E:\school\TP\Ficha7VBnet\Ficha7VBnet\obj\Debug\Ficha7VBnet.Resources.resources
+E:\school\TP\Ficha7VBnet\Ficha7VBnet\obj\Debug\Ficha7VBnet.vbproj.GenerateResource.Cache
+E:\school\TP\Ficha7VBnet\Ficha7VBnet\obj\Debug\Ficha7VBnet.exe
+E:\school\TP\Ficha7VBnet\Ficha7VBnet\obj\Debug\Ficha7VBnet.xml
+E:\school\TP\Ficha7VBnet\Ficha7VBnet\obj\Debug\Ficha7VBnet.pdb
+G:\school\TP\Ficha7VBnet\Ficha7VBnet\bin\Debug\Ficha7VBnet.exe.config
+G:\school\TP\Ficha7VBnet\Ficha7VBnet\obj\Debug\Ficha7VBnet.exe
+G:\school\TP\Ficha7VBnet\Ficha7VBnet\obj\Debug\Ficha7VBnet.xml
+G:\school\TP\Ficha7VBnet\Ficha7VBnet\obj\Debug\Ficha7VBnet.pdb
+G:\school\TP\Ficha7VBnet\Ficha7VBnet\bin\Debug\Ficha7VBnet.exe
+G:\school\TP\Ficha7VBnet\Ficha7VBnet\bin\Debug\Ficha7VBnet.pdb
+G:\school\TP\Ficha7VBnet\Ficha7VBnet\bin\Debug\Ficha7VBnet.xml
+G:\school\TP\Ficha7VBnet\Ficha7VBnet\obj\Debug\Ficha7VBnet.vbprojResolveAssemblyReference.cache
+G:\school\TP\Ficha7VBnet\Ficha7VBnet\obj\Debug\Ficha7VBnet.Form1.resources
+G:\school\TP\Ficha7VBnet\Ficha7VBnet\obj\Debug\Ficha7VBnet.FormTempo.resources
+G:\school\TP\Ficha7VBnet\Ficha7VBnet\obj\Debug\Ficha7VBnet.Resources.resources
+G:\school\TP\Ficha7VBnet\Ficha7VBnet\obj\Debug\Ficha7VBnet.vbproj.GenerateResource.Cache
+E:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\10ºAno\TP\FichasVBnet\Ficha7VBnet\Ficha7VBnet\bin\Debug\Ficha7VBnet.exe.config
+E:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\10ºAno\TP\FichasVBnet\Ficha7VBnet\Ficha7VBnet\obj\Debug\Ficha7VBnet.exe
+E:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\10ºAno\TP\FichasVBnet\Ficha7VBnet\Ficha7VBnet\obj\Debug\Ficha7VBnet.xml
+E:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\10ºAno\TP\FichasVBnet\Ficha7VBnet\Ficha7VBnet\obj\Debug\Ficha7VBnet.pdb
+E:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\10ºAno\TP\FichasVBnet\Ficha7VBnet\Ficha7VBnet\bin\Debug\Ficha7VBnet.exe
+E:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\10ºAno\TP\FichasVBnet\Ficha7VBnet\Ficha7VBnet\bin\Debug\Ficha7VBnet.pdb
+E:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\10ºAno\TP\FichasVBnet\Ficha7VBnet\Ficha7VBnet\bin\Debug\Ficha7VBnet.xml
+E:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\10ºAno\TP\FichasVBnet\Ficha7VBnet\Ficha7VBnet\obj\Debug\Ficha7VBnet.vbprojResolveAssemblyReference.cache
+E:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\10ºAno\TP\FichasVBnet\Ficha7VBnet\Ficha7VBnet\obj\Debug\Ficha7VBnet.Form1.resources
+E:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\10ºAno\TP\FichasVBnet\Ficha7VBnet\Ficha7VBnet\obj\Debug\Ficha7VBnet.FormTempo.resources
+E:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\10ºAno\TP\FichasVBnet\Ficha7VBnet\Ficha7VBnet\obj\Debug\Ficha7VBnet.Resources.resources
+E:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\10ºAno\TP\FichasVBnet\Ficha7VBnet\Ficha7VBnet\obj\Debug\Ficha7VBnet.vbproj.GenerateResource.Cache
+J:\school\10ºAno\TP\FichasVBnet\Ficha7VBnet\Ficha7VBnet\bin\Debug\Ficha7VBnet.exe.config
+J:\school\10ºAno\TP\FichasVBnet\Ficha7VBnet\Ficha7VBnet\obj\Debug\Ficha7VBnet.exe
+J:\school\10ºAno\TP\FichasVBnet\Ficha7VBnet\Ficha7VBnet\obj\Debug\Ficha7VBnet.xml
+J:\school\10ºAno\TP\FichasVBnet\Ficha7VBnet\Ficha7VBnet\obj\Debug\Ficha7VBnet.pdb
+J:\school\10ºAno\TP\FichasVBnet\Ficha7VBnet\Ficha7VBnet\bin\Debug\Ficha7VBnet.exe
+J:\school\10ºAno\TP\FichasVBnet\Ficha7VBnet\Ficha7VBnet\bin\Debug\Ficha7VBnet.pdb
+J:\school\10ºAno\TP\FichasVBnet\Ficha7VBnet\Ficha7VBnet\bin\Debug\Ficha7VBnet.xml
+J:\school\10ºAno\TP\FichasVBnet\Ficha7VBnet\Ficha7VBnet\obj\Debug\Ficha7VBnet.vbprojResolveAssemblyReference.cache
+J:\school\10ºAno\TP\FichasVBnet\Ficha7VBnet\Ficha7VBnet\obj\Debug\Ficha7VBnet.Form1.resources
+J:\school\10ºAno\TP\FichasVBnet\Ficha7VBnet\Ficha7VBnet\obj\Debug\Ficha7VBnet.FormTempo.resources
+J:\school\10ºAno\TP\FichasVBnet\Ficha7VBnet\Ficha7VBnet\obj\Debug\Ficha7VBnet.Resources.resources
+J:\school\10ºAno\TP\FichasVBnet\Ficha7VBnet\Ficha7VBnet\obj\Debug\Ficha7VBnet.vbproj.GenerateResource.Cache

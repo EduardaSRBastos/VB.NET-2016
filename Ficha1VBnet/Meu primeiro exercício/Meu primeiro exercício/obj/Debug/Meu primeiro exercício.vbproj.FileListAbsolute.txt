@@ -1,0 +1,11 @@
+G:\school\TP\Meu primeiro exercício\Meu primeiro exercício\bin\Debug\Meu primeiro exercício.exe.config
+G:\school\TP\Meu primeiro exercício\Meu primeiro exercício\bin\Debug\Meu primeiro exercício.exe
+G:\school\TP\Meu primeiro exercício\Meu primeiro exercício\bin\Debug\Meu primeiro exercício.pdb
+G:\school\TP\Meu primeiro exercício\Meu primeiro exercício\bin\Debug\Meu primeiro exercício.xml
+G:\school\TP\Meu primeiro exercício\Meu primeiro exercício\obj\Debug\Meu primeiro exercício.vbprojResolveAssemblyReference.cache
+G:\school\TP\Meu primeiro exercício\Meu primeiro exercício\obj\Debug\Meu_primeiro_exercício.Form1.resources
+G:\school\TP\Meu primeiro exercício\Meu primeiro exercício\obj\Debug\Meu_primeiro_exercício.Resources.resources
+G:\school\TP\Meu primeiro exercício\Meu primeiro exercício\obj\Debug\Meu primeiro exercício.vbproj.GenerateResource.Cache
+G:\school\TP\Meu primeiro exercício\Meu primeiro exercício\obj\Debug\Meu primeiro exercício.exe
+G:\school\TP\Meu primeiro exercício\Meu primeiro exercício\obj\Debug\Meu primeiro exercício.xml
+G:\school\TP\Meu primeiro exercício\Meu primeiro exercício\obj\Debug\Meu primeiro exercício.pdb

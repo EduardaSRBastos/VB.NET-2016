@@ -1,0 +1,16 @@
+E:\school\TP\Ficha10VBnet\Ficha10VBnet\bin\Debug\Ficha10VBnet.exe.config
+E:\school\TP\Ficha10VBnet\Ficha10VBnet\bin\Debug\Ficha10VBnet.exe
+E:\school\TP\Ficha10VBnet\Ficha10VBnet\bin\Debug\Ficha10VBnet.pdb
+E:\school\TP\Ficha10VBnet\Ficha10VBnet\bin\Debug\Ficha10VBnet.xml
+E:\school\TP\Ficha10VBnet\Ficha10VBnet\obj\Debug\Ficha10VBnet.vbprojResolveAssemblyReference.cache
+E:\school\TP\Ficha10VBnet\Ficha10VBnet\obj\Debug\Ficha10VBnet.Form1.resources
+E:\school\TP\Ficha10VBnet\Ficha10VBnet\obj\Debug\Ficha10VBnet.Resources.resources
+E:\school\TP\Ficha10VBnet\Ficha10VBnet\obj\Debug\Ficha10VBnet.vbproj.GenerateResource.Cache
+E:\school\TP\Ficha10VBnet\Ficha10VBnet\obj\Debug\Ficha10VBnet.exe
+E:\school\TP\Ficha10VBnet\Ficha10VBnet\obj\Debug\Ficha10VBnet.xml
+E:\school\TP\Ficha10VBnet\Ficha10VBnet\obj\Debug\Ficha10VBnet.pdb
+E:\school\TP\Ficha10VBnet\Ficha10VBnet\obj\Debug\Ficha10VBnet.Form2.resources
+E:\school\TP\Ficha10VBnet\Ficha10VBnet\obj\Debug\Ficha10VBnet.Form3.resources
+E:\school\TP\Ficha10VBnet\Ficha10VBnet\obj\Debug\Ficha10VBnet.Form4.resources
+E:\school\TP\Ficha10VBnet\Ficha10VBnet\obj\Debug\Ficha10VBnet.Form5.resources
+E:\school\TP\Ficha10VBnet\Ficha10VBnet\obj\Debug\Ficha10VBnet.Form6.resources

@@ -1,0 +1,15 @@
+G:\school\TP\Ficha4VBnet\Ficha4VBnet\bin\Debug\Ficha4VBnet.exe.config
+G:\school\TP\Ficha4VBnet\Ficha4VBnet\obj\Debug\Ficha4VBnet.vbprojResolveAssemblyReference.cache
+G:\school\TP\Ficha4VBnet\Ficha4VBnet\obj\Debug\Ficha4VBnet.Resources.resources
+G:\school\TP\Ficha4VBnet\Ficha4VBnet\obj\Debug\Ficha4VBnet.vbproj.GenerateResource.Cache
+G:\school\TP\Ficha4VBnet\Ficha4VBnet\obj\Debug\Ficha4VBnet.xml
+G:\school\TP\Ficha4VBnet\Ficha4VBnet\bin\Debug\Ficha4VBnet.exe
+G:\school\TP\Ficha4VBnet\Ficha4VBnet\bin\Debug\Ficha4VBnet.pdb
+G:\school\TP\Ficha4VBnet\Ficha4VBnet\bin\Debug\Ficha4VBnet.xml
+G:\school\TP\Ficha4VBnet\Ficha4VBnet\obj\Debug\Ficha4VBnet.Form1.resources
+G:\school\TP\Ficha4VBnet\Ficha4VBnet\obj\Debug\Ficha4VBnet.exe
+G:\school\TP\Ficha4VBnet\Ficha4VBnet\obj\Debug\Ficha4VBnet.pdb
+J:\school\TP\Ficha4VBnet\Ficha4VBnet\bin\Debug\Ficha4VBnet.exe.config
+J:\school\TP\Ficha4VBnet\Ficha4VBnet\obj\Debug\Ficha4VBnet.exe
+J:\school\TP\Ficha4VBnet\Ficha4VBnet\obj\Debug\Ficha4VBnet.xml
+J:\school\TP\Ficha4VBnet\Ficha4VBnet\obj\Debug\Ficha4VBnet.pdb

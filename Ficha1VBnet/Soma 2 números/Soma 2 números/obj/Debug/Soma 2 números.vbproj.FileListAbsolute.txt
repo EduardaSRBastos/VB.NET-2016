@@ -1,0 +1,11 @@
+G:\school\TP\Soma 2 números\Soma 2 números\bin\Debug\Soma 2 números.exe.config
+G:\school\TP\Soma 2 números\Soma 2 números\obj\Debug\Soma 2 números.vbprojResolveAssemblyReference.cache
+G:\school\TP\Soma 2 números\Soma 2 números\obj\Debug\Soma_2_números.Form1.resources
+G:\school\TP\Soma 2 números\Soma 2 números\obj\Debug\Soma_2_números.Resources.resources
+G:\school\TP\Soma 2 números\Soma 2 números\obj\Debug\Soma 2 números.vbproj.GenerateResource.Cache
+G:\school\TP\Soma 2 números\Soma 2 números\obj\Debug\Soma 2 números.xml
+G:\school\TP\Soma 2 números\Soma 2 números\bin\Debug\Soma 2 números.exe
+G:\school\TP\Soma 2 números\Soma 2 números\bin\Debug\Soma 2 números.pdb
+G:\school\TP\Soma 2 números\Soma 2 números\bin\Debug\Soma 2 números.xml
+G:\school\TP\Soma 2 números\Soma 2 números\obj\Debug\Soma 2 números.exe
+G:\school\TP\Soma 2 números\Soma 2 números\obj\Debug\Soma 2 números.pdb

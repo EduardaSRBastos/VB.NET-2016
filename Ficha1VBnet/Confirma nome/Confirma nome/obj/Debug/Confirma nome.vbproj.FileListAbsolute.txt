@@ -1,0 +1,11 @@
+G:\school\TP\Confirma nome\Confirma nome\bin\Debug\Confirma nome.exe.config
+G:\school\TP\Confirma nome\Confirma nome\bin\Debug\Confirma nome.exe
+G:\school\TP\Confirma nome\Confirma nome\bin\Debug\Confirma nome.pdb
+G:\school\TP\Confirma nome\Confirma nome\bin\Debug\Confirma nome.xml
+G:\school\TP\Confirma nome\Confirma nome\obj\Debug\Confirma_nome.Form1.resources
+G:\school\TP\Confirma nome\Confirma nome\obj\Debug\Confirma_nome.Resources.resources
+G:\school\TP\Confirma nome\Confirma nome\obj\Debug\Confirma nome.vbproj.GenerateResource.Cache
+G:\school\TP\Confirma nome\Confirma nome\obj\Debug\Confirma nome.exe
+G:\school\TP\Confirma nome\Confirma nome\obj\Debug\Confirma nome.xml
+G:\school\TP\Confirma nome\Confirma nome\obj\Debug\Confirma nome.pdb
+G:\school\TP\Confirma nome\Confirma nome\obj\Debug\Confirma nome.vbprojResolveAssemblyReference.cache
